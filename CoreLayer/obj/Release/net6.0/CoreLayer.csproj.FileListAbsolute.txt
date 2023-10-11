@@ -1,0 +1,15 @@
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\bin\Release\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\bin\Release\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\bin\Release\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\bin\Release\net6.0\CoreLayer.deps.json
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\bin\Release\net6.0\CoreLayer.dll
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\bin\Release\net6.0\CoreLayer.pdb
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.dll
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\refint\CoreLayer.dll
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\CoreLayer.pdb
+C:\Users\354_1\Desktop\BackEnd\AdaliaMedia\CoreLayer\obj\Release\net6.0\ref\CoreLayer.dll

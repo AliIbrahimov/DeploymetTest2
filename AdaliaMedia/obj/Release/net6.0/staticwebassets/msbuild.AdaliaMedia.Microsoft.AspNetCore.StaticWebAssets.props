@@ -1,0 +1,100 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\15d9c46d-2a75-4c8c-8f78-a36d97c00732background_wallpaper_web_3.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AdaliaMedia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AdaliaMedia</BasePath>
+      <RelativePath>uploads/BlogCover/15d9c46d-2a75-4c8c-8f78-a36d97c00732background_wallpaper_web_3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\15d9c46d-2a75-4c8c-8f78-a36d97c00732background_wallpaper_web_3.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\31d92906-b576-49a9-8998-29b96064b743Restricted Section Library Bookshelves Adhesive Wallpaper Find.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AdaliaMedia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AdaliaMedia</BasePath>
+      <RelativePath>uploads/BlogCover/31d92906-b576-49a9-8998-29b96064b743Restricted Section Library Bookshelves Adhesive Wallpaper Find.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\31d92906-b576-49a9-8998-29b96064b743Restricted Section Library Bookshelves Adhesive Wallpaper Find.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\5d301b5f-9e94-45d1-a230-d4577ae609dabackground_wallpaper_web_2.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AdaliaMedia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AdaliaMedia</BasePath>
+      <RelativePath>uploads/BlogCover/5d301b5f-9e94-45d1-a230-d4577ae609dabackground_wallpaper_web_2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\5d301b5f-9e94-45d1-a230-d4577ae609dabackground_wallpaper_web_2.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\c71a9836-12d3-4a58-9322-91cc6a8767c6background_wallpaper_web.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AdaliaMedia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AdaliaMedia</BasePath>
+      <RelativePath>uploads/BlogCover/c71a9836-12d3-4a58-9322-91cc6a8767c6background_wallpaper_web.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\c71a9836-12d3-4a58-9322-91cc6a8767c6background_wallpaper_web.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\efa9e473-4976-41d0-9b36-8d7fae6a255epexels-pixabay-531321.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AdaliaMedia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AdaliaMedia</BasePath>
+      <RelativePath>uploads/BlogCover/efa9e473-4976-41d0-9b36-8d7fae6a255epexels-pixabay-531321.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\efa9e473-4976-41d0-9b36-8d7fae6a255epexels-pixabay-531321.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\f1ea14f2-b375-4304-839f-65e7dafd9504pexels-pixabay-531321.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>AdaliaMedia</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AdaliaMedia</BasePath>
+      <RelativePath>uploads/BlogCover/f1ea14f2-b375-4304-839f-65e7dafd9504pexels-pixabay-531321.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\BlogCover\f1ea14f2-b375-4304-839f-65e7dafd9504pexels-pixabay-531321.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\354_1\\Desktop\\BackEnd\\AdaliaMedia\\AdaliaMedia\\wwwroot\\uploads\\BlogCover\\15d9c46d-2a75-4c8c-8f78-a36d97c00732background_wallpaper_web_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BlogCover\\15d9c46d-2a75-4c8c-8f78-a36d97c00732background_wallpaper_web_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\354_1\\Desktop\\BackEnd\\AdaliaMedia\\AdaliaMedia\\wwwroot\\uploads\\BlogCover\\31d92906-b576-49a9-8998-29b96064b743Restricted Section Library Bookshelves Adhesive Wallpaper Find.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BlogCover\\31d92906-b576-49a9-8998-29b96064b743Restricted Section Library Bookshelves Adhesive Wallpaper Find.jpg"
+    },
+    {
+      "Id": "C:\\Users\\354_1\\Desktop\\BackEnd\\AdaliaMedia\\AdaliaMedia\\wwwroot\\uploads\\BlogCover\\5d301b5f-9e94-45d1-a230-d4577ae609dabackground_wallpaper_web_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BlogCover\\5d301b5f-9e94-45d1-a230-d4577ae609dabackground_wallpaper_web_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\354_1\\Desktop\\BackEnd\\AdaliaMedia\\AdaliaMedia\\wwwroot\\uploads\\BlogCover\\c71a9836-12d3-4a58-9322-91cc6a8767c6background_wallpaper_web.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BlogCover\\c71a9836-12d3-4a58-9322-91cc6a8767c6background_wallpaper_web.jpg"
+    },
+    {
+      "Id": "C:\\Users\\354_1\\Desktop\\BackEnd\\AdaliaMedia\\AdaliaMedia\\wwwroot\\uploads\\BlogCover\\efa9e473-4976-41d0-9b36-8d7fae6a255epexels-pixabay-531321.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BlogCover\\efa9e473-4976-41d0-9b36-8d7fae6a255epexels-pixabay-531321.jpg"
+    },
+    {
+      "Id": "C:\\Users\\354_1\\Desktop\\BackEnd\\AdaliaMedia\\AdaliaMedia\\wwwroot\\uploads\\BlogCover\\f1ea14f2-b375-4304-839f-65e7dafd9504pexels-pixabay-531321.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BlogCover\\f1ea14f2-b375-4304-839f-65e7dafd9504pexels-pixabay-531321.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.AdaliaMedia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.AdaliaMedia.props",
+      "PackagePath": "build\\AdaliaMedia.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdaliaMedia.props",
+      "PackagePath": "buildMultiTargeting\\AdaliaMedia.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdaliaMedia.props",
+      "PackagePath": "buildTransitive\\AdaliaMedia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
